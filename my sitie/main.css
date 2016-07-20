@@ -1,0 +1,36 @@
+  body {
+
+      text-align: center;
+      background: lightgrey;
+      background-size: cover;
+      background-position: center;
+      background-repeat: no-repeat;
+      color: black;
+      font-family: helvetica;
+      /*url("../images/background.jpg" );*/
+    }
+    img {
+    width: 200px;
+     height: 200px;
+    }
+    p {
+      font-size: 52px;
+    }
+    input {
+      border: 0;
+      padding: 10px;
+      font-size: 18px;
+    }
+    input[type="submit"] {
+      background: black;
+      color: white;
+    }
+    h2#products_title {color:purple;}
+    /*maketheh2withid="products_title"purple*/
+    li.product_item  {list-style-type: none;}
+      /*removethebulletsfromallliwithclass="product_item"*/
+    .product_item {color: black;}
+    /*changes the iten lists blue all together*/
+  
+
+ 
